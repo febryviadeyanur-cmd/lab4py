@@ -8,6 +8,7 @@ Mata Kuliah : Pengantar Pemrograman
 
 PRAKTIKUM 4
 
+
 LATIHAN: Program Manipulasi List sesuai permintaan
 
 1. Buat list sebanyak 5 elemen dengan nilai bebas
@@ -99,6 +100,7 @@ Nilai akhir = (70 × 0.30) + (65 × 0.35) + (80 × 0.35)
 5. Kondisi berhenti
 
 6. Menampilkan tabel hasil
+   
 
 Algoritma:
 
@@ -156,3 +158,4 @@ Hasilnya :
 <img width="1784" height="886" alt="Screenshot 2025-11-13 215815" src="https://github.com/user-attachments/assets/f718f775-f6d5-4f85-8f79-a0dbeb651658" />
 
 Flowchart :
+![Image 2025-11-14 at 23 29 22_05282253](https://github.com/user-attachments/assets/abc65998-bc6a-455d-b7a5-7ad83fb42dfb)
